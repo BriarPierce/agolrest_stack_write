@@ -1,0 +1,1 @@
+# agolrest_stack_write
